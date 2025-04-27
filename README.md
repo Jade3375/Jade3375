@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/jade3375" target="blank"><img src="https://img.shields.io/twitter/follow/jade3375?logo=twitter&style=for-the-badge" alt="jade3375" /></a> </p>
 
-- 🔭 I’m currently working on [Asuna](https://github.com/Jade3375/Asuna)
+- 🔭 I’m currently working on [Revbot.js](https://github.com/Jade3375/revbot.js)
 
 - 🌱 I’m currently learning **C#**
 
