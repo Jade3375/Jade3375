@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Revbot.js](https://github.com/Jade3375/revbot.js)
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **React & AWS**
 
 - 📫 How to reach me **jadejurkevics@gmail.com**
 
